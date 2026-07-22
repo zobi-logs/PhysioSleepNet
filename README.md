@@ -62,3 +62,11 @@ Runs are resume-safe: a fold directory containing `DONE` is skipped.
 ## Citation
 
     [BibTeX once published]
+
+## License
+
+MIT (see LICENSE). This covers the code in this repository. The baseline
+architectures are reimplementations of published work by their respective
+authors, cited in the paper; Wang-DualStream is run from the authors' own
+repository and is not redistributed here. The MESA and CFS data are governed
+by the NSRR data use agreement.
