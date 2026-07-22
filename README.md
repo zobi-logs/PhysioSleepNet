@@ -33,7 +33,7 @@ Model checkpoints are also excluded for size.
 ## Reproducing
 
 All reported results use a single training seed (42) and five
-subject-disjoint folds. Splits are written once to `folds/*.json` and
+subject-disjoint folds. Splits are written once to `benchmark_results/folds/*.json` and
 reused by every model, so all comparisons are on identical partitions.
 
     # train one model on one cohort
