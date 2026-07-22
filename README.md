@@ -70,3 +70,14 @@ architectures are reimplementations of published work by their respective
 authors, cited in the paper; Wang-DualStream is run from the authors' own
 repository and is not redistributed here. The MESA and CFS data are governed
 by the NSRR data use agreement.
+
+## Verifying the published numbers
+
+Two scripts recompute every reported result from the per-fold outputs and
+compare against the values printed in the paper:
+
+    python verify_paper.py   # Tables III and IV, Section IV-D probes
+    python verify_rest.py    # Section IV-A Wilcoxon comparisons
+
+`verify_paper.py` reports `68 matched, 0 mismatched` on the committed
+results. Neither script needs the raw PSG data.
