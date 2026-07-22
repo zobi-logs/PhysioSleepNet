@@ -81,3 +81,8 @@ compare against the values printed in the paper:
 
 `verify_paper.py` reports `68 matched, 0 mismatched` on the committed
 results. Neither script needs the raw PSG data.
+
+Note: the Deep and REM F1 columns are recomputed from `predictions.npz`,
+which is excluded from this repository for size. Those checks will report
+as missing on a fresh clone; kappa, macro-F1 and the probe values verify
+from the committed `metrics.json` files alone.
