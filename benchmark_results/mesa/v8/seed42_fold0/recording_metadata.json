@@ -1,0 +1,2234 @@
+[
+  {
+    "recording_idx": 0,
+    "subject_id": "mesa-sleep-0002_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0002_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 1,
+    "subject_id": "mesa-sleep-0014_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0014_v1.npz",
+    "n_epochs": 1599
+  },
+  {
+    "recording_idx": 2,
+    "subject_id": "mesa-sleep-0038_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0038_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 3,
+    "subject_id": "mesa-sleep-0077_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0077_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 4,
+    "subject_id": "mesa-sleep-0099_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0099_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 5,
+    "subject_id": "mesa-sleep-0101_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0101_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 6,
+    "subject_id": "mesa-sleep-0107_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0107_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 7,
+    "subject_id": "mesa-sleep-0113_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0113_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 8,
+    "subject_id": "mesa-sleep-0140_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0140_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 9,
+    "subject_id": "mesa-sleep-0169_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0169_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 10,
+    "subject_id": "mesa-sleep-0183_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0183_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 11,
+    "subject_id": "mesa-sleep-0187_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0187_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 12,
+    "subject_id": "mesa-sleep-0194_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0194_v1.npz",
+    "n_epochs": 2079
+  },
+  {
+    "recording_idx": 13,
+    "subject_id": "mesa-sleep-0251_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0251_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 14,
+    "subject_id": "mesa-sleep-0286_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0286_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 15,
+    "subject_id": "mesa-sleep-0295_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0295_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 16,
+    "subject_id": "mesa-sleep-0310_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0310_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 17,
+    "subject_id": "mesa-sleep-0329_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0329_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 18,
+    "subject_id": "mesa-sleep-0338_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0338_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 19,
+    "subject_id": "mesa-sleep-0344_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0344_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 20,
+    "subject_id": "mesa-sleep-0350_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0350_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 21,
+    "subject_id": "mesa-sleep-0408_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0408_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 22,
+    "subject_id": "mesa-sleep-0423_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0423_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 23,
+    "subject_id": "mesa-sleep-0459_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0459_v1.npz",
+    "n_epochs": 1479
+  },
+  {
+    "recording_idx": 24,
+    "subject_id": "mesa-sleep-0465_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0465_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 25,
+    "subject_id": "mesa-sleep-0483_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0483_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 26,
+    "subject_id": "mesa-sleep-0491_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0491_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 27,
+    "subject_id": "mesa-sleep-0509_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0509_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 28,
+    "subject_id": "mesa-sleep-0529_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0529_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 29,
+    "subject_id": "mesa-sleep-0536_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0536_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 30,
+    "subject_id": "mesa-sleep-0548_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0548_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 31,
+    "subject_id": "mesa-sleep-0555_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0555_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 32,
+    "subject_id": "mesa-sleep-0558_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0558_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 33,
+    "subject_id": "mesa-sleep-0604_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0604_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 34,
+    "subject_id": "mesa-sleep-0612_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0612_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 35,
+    "subject_id": "mesa-sleep-0626_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0626_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 36,
+    "subject_id": "mesa-sleep-0628_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0628_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 37,
+    "subject_id": "mesa-sleep-0640_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0640_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 38,
+    "subject_id": "mesa-sleep-0655_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0655_v1.npz",
+    "n_epochs": 1038
+  },
+  {
+    "recording_idx": 39,
+    "subject_id": "mesa-sleep-0718_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0718_v1.npz",
+    "n_epochs": 1221
+  },
+  {
+    "recording_idx": 40,
+    "subject_id": "mesa-sleep-0728_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0728_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 41,
+    "subject_id": "mesa-sleep-0743_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0743_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 42,
+    "subject_id": "mesa-sleep-0764_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0764_v1.npz",
+    "n_epochs": 1299
+  },
+  {
+    "recording_idx": 43,
+    "subject_id": "mesa-sleep-0789_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0789_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 44,
+    "subject_id": "mesa-sleep-0797_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0797_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 45,
+    "subject_id": "mesa-sleep-0813_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0813_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 46,
+    "subject_id": "mesa-sleep-0823_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0823_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 47,
+    "subject_id": "mesa-sleep-0838_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0838_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 48,
+    "subject_id": "mesa-sleep-0860_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0860_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 49,
+    "subject_id": "mesa-sleep-0864_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0864_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 50,
+    "subject_id": "mesa-sleep-0902_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0902_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 51,
+    "subject_id": "mesa-sleep-0908_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0908_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 52,
+    "subject_id": "mesa-sleep-0912_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0912_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 53,
+    "subject_id": "mesa-sleep-0928_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0928_v1.npz",
+    "n_epochs": 1300
+  },
+  {
+    "recording_idx": 54,
+    "subject_id": "mesa-sleep-0934_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0934_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 55,
+    "subject_id": "mesa-sleep-0976_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0976_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 56,
+    "subject_id": "mesa-sleep-0979_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-0979_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 57,
+    "subject_id": "mesa-sleep-1017_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1017_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 58,
+    "subject_id": "mesa-sleep-1018_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1018_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 59,
+    "subject_id": "mesa-sleep-1019_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1019_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 60,
+    "subject_id": "mesa-sleep-1021_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1021_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 61,
+    "subject_id": "mesa-sleep-1035_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1035_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 62,
+    "subject_id": "mesa-sleep-1080_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1080_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 63,
+    "subject_id": "mesa-sleep-1090_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1090_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 64,
+    "subject_id": "mesa-sleep-1092_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1092_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 65,
+    "subject_id": "mesa-sleep-1113_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1113_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 66,
+    "subject_id": "mesa-sleep-1139_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1139_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 67,
+    "subject_id": "mesa-sleep-1219_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1219_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 68,
+    "subject_id": "mesa-sleep-1236_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1236_v1.npz",
+    "n_epochs": 1185
+  },
+  {
+    "recording_idx": 69,
+    "subject_id": "mesa-sleep-1256_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1256_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 70,
+    "subject_id": "mesa-sleep-1263_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1263_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 71,
+    "subject_id": "mesa-sleep-1266_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1266_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 72,
+    "subject_id": "mesa-sleep-1297_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1297_v1.npz",
+    "n_epochs": 1895
+  },
+  {
+    "recording_idx": 73,
+    "subject_id": "mesa-sleep-1301_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1301_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 74,
+    "subject_id": "mesa-sleep-1321_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1321_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 75,
+    "subject_id": "mesa-sleep-1342_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1342_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 76,
+    "subject_id": "mesa-sleep-1374_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1374_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 77,
+    "subject_id": "mesa-sleep-1390_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1390_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 78,
+    "subject_id": "mesa-sleep-1413_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1413_v1.npz",
+    "n_epochs": 1479
+  },
+  {
+    "recording_idx": 79,
+    "subject_id": "mesa-sleep-1420_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1420_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 80,
+    "subject_id": "mesa-sleep-1470_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1470_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 81,
+    "subject_id": "mesa-sleep-1476_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1476_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 82,
+    "subject_id": "mesa-sleep-1478_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1478_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 83,
+    "subject_id": "mesa-sleep-1492_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1492_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 84,
+    "subject_id": "mesa-sleep-1527_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1527_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 85,
+    "subject_id": "mesa-sleep-1570_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1570_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 86,
+    "subject_id": "mesa-sleep-1584_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1584_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 87,
+    "subject_id": "mesa-sleep-1607_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1607_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 88,
+    "subject_id": "mesa-sleep-1612_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1612_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 89,
+    "subject_id": "mesa-sleep-1637_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1637_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 90,
+    "subject_id": "mesa-sleep-1684_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1684_v1.npz",
+    "n_epochs": 1199
+  },
+  {
+    "recording_idx": 91,
+    "subject_id": "mesa-sleep-1733_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1733_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 92,
+    "subject_id": "mesa-sleep-1757_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1757_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 93,
+    "subject_id": "mesa-sleep-1759_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1759_v1.npz",
+    "n_epochs": 1579
+  },
+  {
+    "recording_idx": 94,
+    "subject_id": "mesa-sleep-1769_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1769_v1.npz",
+    "n_epochs": 1060
+  },
+  {
+    "recording_idx": 95,
+    "subject_id": "mesa-sleep-1797_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1797_v1.npz",
+    "n_epochs": 1522
+  },
+  {
+    "recording_idx": 96,
+    "subject_id": "mesa-sleep-1887_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1887_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 97,
+    "subject_id": "mesa-sleep-1907_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-1907_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 98,
+    "subject_id": "mesa-sleep-2003_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2003_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 99,
+    "subject_id": "mesa-sleep-2049_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2049_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 100,
+    "subject_id": "mesa-sleep-2050_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2050_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 101,
+    "subject_id": "mesa-sleep-2066_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2066_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 102,
+    "subject_id": "mesa-sleep-2084_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2084_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 103,
+    "subject_id": "mesa-sleep-2105_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2105_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 104,
+    "subject_id": "mesa-sleep-2145_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2145_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 105,
+    "subject_id": "mesa-sleep-2172_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2172_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 106,
+    "subject_id": "mesa-sleep-2193_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2193_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 107,
+    "subject_id": "mesa-sleep-2204_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2204_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 108,
+    "subject_id": "mesa-sleep-2215_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2215_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 109,
+    "subject_id": "mesa-sleep-2260_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2260_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 110,
+    "subject_id": "mesa-sleep-2264_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2264_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 111,
+    "subject_id": "mesa-sleep-2266_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2266_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 112,
+    "subject_id": "mesa-sleep-2276_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2276_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 113,
+    "subject_id": "mesa-sleep-2292_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2292_v1.npz",
+    "n_epochs": 998
+  },
+  {
+    "recording_idx": 114,
+    "subject_id": "mesa-sleep-2299_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2299_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 115,
+    "subject_id": "mesa-sleep-2308_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2308_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 116,
+    "subject_id": "mesa-sleep-2388_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2388_v1.npz",
+    "n_epochs": 1240
+  },
+  {
+    "recording_idx": 117,
+    "subject_id": "mesa-sleep-2394_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2394_v1.npz",
+    "n_epochs": 1240
+  },
+  {
+    "recording_idx": 118,
+    "subject_id": "mesa-sleep-2434_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2434_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 119,
+    "subject_id": "mesa-sleep-2452_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2452_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 120,
+    "subject_id": "mesa-sleep-2487_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2487_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 121,
+    "subject_id": "mesa-sleep-2507_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2507_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 122,
+    "subject_id": "mesa-sleep-2513_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2513_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 123,
+    "subject_id": "mesa-sleep-2519_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2519_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 124,
+    "subject_id": "mesa-sleep-2556_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2556_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 125,
+    "subject_id": "mesa-sleep-2573_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2573_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 126,
+    "subject_id": "mesa-sleep-2582_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2582_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 127,
+    "subject_id": "mesa-sleep-2602_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2602_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 128,
+    "subject_id": "mesa-sleep-2603_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2603_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 129,
+    "subject_id": "mesa-sleep-2608_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2608_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 130,
+    "subject_id": "mesa-sleep-2632_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2632_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 131,
+    "subject_id": "mesa-sleep-2636_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2636_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 132,
+    "subject_id": "mesa-sleep-2638_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2638_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 133,
+    "subject_id": "mesa-sleep-2648_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2648_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 134,
+    "subject_id": "mesa-sleep-2650_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2650_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 135,
+    "subject_id": "mesa-sleep-2655_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2655_v1.npz",
+    "n_epochs": 1480
+  },
+  {
+    "recording_idx": 136,
+    "subject_id": "mesa-sleep-2701_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2701_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 137,
+    "subject_id": "mesa-sleep-2714_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2714_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 138,
+    "subject_id": "mesa-sleep-2722_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2722_v1.npz",
+    "n_epochs": 1208
+  },
+  {
+    "recording_idx": 139,
+    "subject_id": "mesa-sleep-2764_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2764_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 140,
+    "subject_id": "mesa-sleep-2781_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2781_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 141,
+    "subject_id": "mesa-sleep-2800_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2800_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 142,
+    "subject_id": "mesa-sleep-2802_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2802_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 143,
+    "subject_id": "mesa-sleep-2814_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2814_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 144,
+    "subject_id": "mesa-sleep-2828_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2828_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 145,
+    "subject_id": "mesa-sleep-2896_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2896_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 146,
+    "subject_id": "mesa-sleep-2911_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2911_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 147,
+    "subject_id": "mesa-sleep-2938_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2938_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 148,
+    "subject_id": "mesa-sleep-2961_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2961_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 149,
+    "subject_id": "mesa-sleep-2982_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-2982_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 150,
+    "subject_id": "mesa-sleep-3003_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3003_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 151,
+    "subject_id": "mesa-sleep-3032_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3032_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 152,
+    "subject_id": "mesa-sleep-3044_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3044_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 153,
+    "subject_id": "mesa-sleep-3068_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3068_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 154,
+    "subject_id": "mesa-sleep-3113_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3113_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 155,
+    "subject_id": "mesa-sleep-3149_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3149_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 156,
+    "subject_id": "mesa-sleep-3155_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3155_v1.npz",
+    "n_epochs": 1479
+  },
+  {
+    "recording_idx": 157,
+    "subject_id": "mesa-sleep-3158_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3158_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 158,
+    "subject_id": "mesa-sleep-3180_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3180_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 159,
+    "subject_id": "mesa-sleep-3193_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3193_v1.npz",
+    "n_epochs": 1007
+  },
+  {
+    "recording_idx": 160,
+    "subject_id": "mesa-sleep-3224_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3224_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 161,
+    "subject_id": "mesa-sleep-3236_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3236_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 162,
+    "subject_id": "mesa-sleep-3257_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3257_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 163,
+    "subject_id": "mesa-sleep-3259_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3259_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 164,
+    "subject_id": "mesa-sleep-3293_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3293_v1.npz",
+    "n_epochs": 997
+  },
+  {
+    "recording_idx": 165,
+    "subject_id": "mesa-sleep-3297_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3297_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 166,
+    "subject_id": "mesa-sleep-3302_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3302_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 167,
+    "subject_id": "mesa-sleep-3308_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3308_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 168,
+    "subject_id": "mesa-sleep-3311_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3311_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 169,
+    "subject_id": "mesa-sleep-3317_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3317_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 170,
+    "subject_id": "mesa-sleep-3341_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3341_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 171,
+    "subject_id": "mesa-sleep-3349_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3349_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 172,
+    "subject_id": "mesa-sleep-3375_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3375_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 173,
+    "subject_id": "mesa-sleep-3377_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3377_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 174,
+    "subject_id": "mesa-sleep-3378_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3378_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 175,
+    "subject_id": "mesa-sleep-3390_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3390_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 176,
+    "subject_id": "mesa-sleep-3410_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3410_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 177,
+    "subject_id": "mesa-sleep-3419_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3419_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 178,
+    "subject_id": "mesa-sleep-3449_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3449_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 179,
+    "subject_id": "mesa-sleep-3495_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3495_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 180,
+    "subject_id": "mesa-sleep-3500_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3500_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 181,
+    "subject_id": "mesa-sleep-3508_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3508_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 182,
+    "subject_id": "mesa-sleep-3529_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3529_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 183,
+    "subject_id": "mesa-sleep-3537_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3537_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 184,
+    "subject_id": "mesa-sleep-3570_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3570_v1.npz",
+    "n_epochs": 1419
+  },
+  {
+    "recording_idx": 185,
+    "subject_id": "mesa-sleep-3598_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3598_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 186,
+    "subject_id": "mesa-sleep-3603_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3603_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 187,
+    "subject_id": "mesa-sleep-3612_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3612_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 188,
+    "subject_id": "mesa-sleep-3625_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3625_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 189,
+    "subject_id": "mesa-sleep-3630_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3630_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 190,
+    "subject_id": "mesa-sleep-3635_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3635_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 191,
+    "subject_id": "mesa-sleep-3652_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3652_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 192,
+    "subject_id": "mesa-sleep-3656_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3656_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 193,
+    "subject_id": "mesa-sleep-3666_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3666_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 194,
+    "subject_id": "mesa-sleep-3711_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3711_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 195,
+    "subject_id": "mesa-sleep-3750_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3750_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 196,
+    "subject_id": "mesa-sleep-3751_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3751_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 197,
+    "subject_id": "mesa-sleep-3760_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3760_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 198,
+    "subject_id": "mesa-sleep-3771_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3771_v1.npz",
+    "n_epochs": 1155
+  },
+  {
+    "recording_idx": 199,
+    "subject_id": "mesa-sleep-3781_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3781_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 200,
+    "subject_id": "mesa-sleep-3785_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3785_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 201,
+    "subject_id": "mesa-sleep-3801_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3801_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 202,
+    "subject_id": "mesa-sleep-3822_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3822_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 203,
+    "subject_id": "mesa-sleep-3855_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3855_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 204,
+    "subject_id": "mesa-sleep-3856_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3856_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 205,
+    "subject_id": "mesa-sleep-3865_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3865_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 206,
+    "subject_id": "mesa-sleep-3914_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3914_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 207,
+    "subject_id": "mesa-sleep-3918_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3918_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 208,
+    "subject_id": "mesa-sleep-3933_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3933_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 209,
+    "subject_id": "mesa-sleep-3934_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3934_v1.npz",
+    "n_epochs": 1176
+  },
+  {
+    "recording_idx": 210,
+    "subject_id": "mesa-sleep-3936_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3936_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 211,
+    "subject_id": "mesa-sleep-3974_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3974_v1.npz",
+    "n_epochs": 1299
+  },
+  {
+    "recording_idx": 212,
+    "subject_id": "mesa-sleep-3980_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3980_v1.npz",
+    "n_epochs": 1233
+  },
+  {
+    "recording_idx": 213,
+    "subject_id": "mesa-sleep-3997_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-3997_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 214,
+    "subject_id": "mesa-sleep-4015_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4015_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 215,
+    "subject_id": "mesa-sleep-4062_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4062_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 216,
+    "subject_id": "mesa-sleep-4116_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4116_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 217,
+    "subject_id": "mesa-sleep-4123_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4123_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 218,
+    "subject_id": "mesa-sleep-4157_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4157_v1.npz",
+    "n_epochs": 1240
+  },
+  {
+    "recording_idx": 219,
+    "subject_id": "mesa-sleep-4167_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4167_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 220,
+    "subject_id": "mesa-sleep-4168_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4168_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 221,
+    "subject_id": "mesa-sleep-4170_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4170_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 222,
+    "subject_id": "mesa-sleep-4174_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4174_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 223,
+    "subject_id": "mesa-sleep-4178_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4178_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 224,
+    "subject_id": "mesa-sleep-4232_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4232_v1.npz",
+    "n_epochs": 1322
+  },
+  {
+    "recording_idx": 225,
+    "subject_id": "mesa-sleep-4236_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4236_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 226,
+    "subject_id": "mesa-sleep-4241_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4241_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 227,
+    "subject_id": "mesa-sleep-4245_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4245_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 228,
+    "subject_id": "mesa-sleep-4257_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4257_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 229,
+    "subject_id": "mesa-sleep-4270_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4270_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 230,
+    "subject_id": "mesa-sleep-4294_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4294_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 231,
+    "subject_id": "mesa-sleep-4296_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4296_v1.npz",
+    "n_epochs": 759
+  },
+  {
+    "recording_idx": 232,
+    "subject_id": "mesa-sleep-4298_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4298_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 233,
+    "subject_id": "mesa-sleep-4301_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4301_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 234,
+    "subject_id": "mesa-sleep-4309_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4309_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 235,
+    "subject_id": "mesa-sleep-4319_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4319_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 236,
+    "subject_id": "mesa-sleep-4367_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4367_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 237,
+    "subject_id": "mesa-sleep-4409_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4409_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 238,
+    "subject_id": "mesa-sleep-4411_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4411_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 239,
+    "subject_id": "mesa-sleep-4412_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4412_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 240,
+    "subject_id": "mesa-sleep-4417_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4417_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 241,
+    "subject_id": "mesa-sleep-4465_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4465_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 242,
+    "subject_id": "mesa-sleep-4474_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4474_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 243,
+    "subject_id": "mesa-sleep-4492_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4492_v1.npz",
+    "n_epochs": 1599
+  },
+  {
+    "recording_idx": 244,
+    "subject_id": "mesa-sleep-4512_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4512_v1.npz",
+    "n_epochs": 1299
+  },
+  {
+    "recording_idx": 245,
+    "subject_id": "mesa-sleep-4520_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4520_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 246,
+    "subject_id": "mesa-sleep-4535_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4535_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 247,
+    "subject_id": "mesa-sleep-4538_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4538_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 248,
+    "subject_id": "mesa-sleep-4557_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4557_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 249,
+    "subject_id": "mesa-sleep-4582_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4582_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 250,
+    "subject_id": "mesa-sleep-4590_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4590_v1.npz",
+    "n_epochs": 1419
+  },
+  {
+    "recording_idx": 251,
+    "subject_id": "mesa-sleep-4614_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4614_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 252,
+    "subject_id": "mesa-sleep-4618_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4618_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 253,
+    "subject_id": "mesa-sleep-4627_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4627_v1.npz",
+    "n_epochs": 1518
+  },
+  {
+    "recording_idx": 254,
+    "subject_id": "mesa-sleep-4635_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4635_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 255,
+    "subject_id": "mesa-sleep-4671_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4671_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 256,
+    "subject_id": "mesa-sleep-4730_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4730_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 257,
+    "subject_id": "mesa-sleep-4732_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4732_v1.npz",
+    "n_epochs": 1419
+  },
+  {
+    "recording_idx": 258,
+    "subject_id": "mesa-sleep-4763_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4763_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 259,
+    "subject_id": "mesa-sleep-4772_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4772_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 260,
+    "subject_id": "mesa-sleep-4778_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4778_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 261,
+    "subject_id": "mesa-sleep-4794_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4794_v1.npz",
+    "n_epochs": 1114
+  },
+  {
+    "recording_idx": 262,
+    "subject_id": "mesa-sleep-4831_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4831_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 263,
+    "subject_id": "mesa-sleep-4842_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4842_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 264,
+    "subject_id": "mesa-sleep-4886_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4886_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 265,
+    "subject_id": "mesa-sleep-4912_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4912_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 266,
+    "subject_id": "mesa-sleep-4928_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4928_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 267,
+    "subject_id": "mesa-sleep-4935_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4935_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 268,
+    "subject_id": "mesa-sleep-4939_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4939_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 269,
+    "subject_id": "mesa-sleep-4947_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4947_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 270,
+    "subject_id": "mesa-sleep-4950_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4950_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 271,
+    "subject_id": "mesa-sleep-4998_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-4998_v1.npz",
+    "n_epochs": 1240
+  },
+  {
+    "recording_idx": 272,
+    "subject_id": "mesa-sleep-5001_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5001_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 273,
+    "subject_id": "mesa-sleep-5017_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5017_v1.npz",
+    "n_epochs": 1479
+  },
+  {
+    "recording_idx": 274,
+    "subject_id": "mesa-sleep-5073_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5073_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 275,
+    "subject_id": "mesa-sleep-5075_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5075_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 276,
+    "subject_id": "mesa-sleep-5079_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5079_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 277,
+    "subject_id": "mesa-sleep-5096_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5096_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 278,
+    "subject_id": "mesa-sleep-5119_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5119_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 279,
+    "subject_id": "mesa-sleep-5121_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5121_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 280,
+    "subject_id": "mesa-sleep-5135_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5135_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 281,
+    "subject_id": "mesa-sleep-5137_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5137_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 282,
+    "subject_id": "mesa-sleep-5148_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5148_v1.npz",
+    "n_epochs": 1479
+  },
+  {
+    "recording_idx": 283,
+    "subject_id": "mesa-sleep-5166_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5166_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 284,
+    "subject_id": "mesa-sleep-5214_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5214_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 285,
+    "subject_id": "mesa-sleep-5273_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5273_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 286,
+    "subject_id": "mesa-sleep-5287_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5287_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 287,
+    "subject_id": "mesa-sleep-5292_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5292_v1.npz",
+    "n_epochs": 1147
+  },
+  {
+    "recording_idx": 288,
+    "subject_id": "mesa-sleep-5311_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5311_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 289,
+    "subject_id": "mesa-sleep-5332_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5332_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 290,
+    "subject_id": "mesa-sleep-5354_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5354_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 291,
+    "subject_id": "mesa-sleep-5358_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5358_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 292,
+    "subject_id": "mesa-sleep-5369_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5369_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 293,
+    "subject_id": "mesa-sleep-5387_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5387_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 294,
+    "subject_id": "mesa-sleep-5396_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5396_v1.npz",
+    "n_epochs": 1240
+  },
+  {
+    "recording_idx": 295,
+    "subject_id": "mesa-sleep-5402_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5402_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 296,
+    "subject_id": "mesa-sleep-5405_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5405_v1.npz",
+    "n_epochs": 879
+  },
+  {
+    "recording_idx": 297,
+    "subject_id": "mesa-sleep-5427_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5427_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 298,
+    "subject_id": "mesa-sleep-5429_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5429_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 299,
+    "subject_id": "mesa-sleep-5440_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5440_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 300,
+    "subject_id": "mesa-sleep-5450_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5450_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 301,
+    "subject_id": "mesa-sleep-5476_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5476_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 302,
+    "subject_id": "mesa-sleep-5480_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5480_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 303,
+    "subject_id": "mesa-sleep-5500_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5500_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 304,
+    "subject_id": "mesa-sleep-5510_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5510_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 305,
+    "subject_id": "mesa-sleep-5532_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5532_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 306,
+    "subject_id": "mesa-sleep-5592_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5592_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 307,
+    "subject_id": "mesa-sleep-5621_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5621_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 308,
+    "subject_id": "mesa-sleep-5662_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5662_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 309,
+    "subject_id": "mesa-sleep-5669_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5669_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 310,
+    "subject_id": "mesa-sleep-5686_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5686_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 311,
+    "subject_id": "mesa-sleep-5695_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5695_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 312,
+    "subject_id": "mesa-sleep-5708_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5708_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 313,
+    "subject_id": "mesa-sleep-5721_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5721_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 314,
+    "subject_id": "mesa-sleep-5722_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5722_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 315,
+    "subject_id": "mesa-sleep-5733_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5733_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 316,
+    "subject_id": "mesa-sleep-5753_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5753_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 317,
+    "subject_id": "mesa-sleep-5782_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5782_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 318,
+    "subject_id": "mesa-sleep-5784_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5784_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 319,
+    "subject_id": "mesa-sleep-5793_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5793_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 320,
+    "subject_id": "mesa-sleep-5845_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5845_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 321,
+    "subject_id": "mesa-sleep-5851_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5851_v1.npz",
+    "n_epochs": 1261
+  },
+  {
+    "recording_idx": 322,
+    "subject_id": "mesa-sleep-5854_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5854_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 323,
+    "subject_id": "mesa-sleep-5869_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5869_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 324,
+    "subject_id": "mesa-sleep-5875_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5875_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 325,
+    "subject_id": "mesa-sleep-5885_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5885_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 326,
+    "subject_id": "mesa-sleep-5887_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5887_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 327,
+    "subject_id": "mesa-sleep-5907_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5907_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 328,
+    "subject_id": "mesa-sleep-5939_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5939_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 329,
+    "subject_id": "mesa-sleep-5947_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-5947_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 330,
+    "subject_id": "mesa-sleep-6037_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6037_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 331,
+    "subject_id": "mesa-sleep-6050_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6050_v1.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 332,
+    "subject_id": "mesa-sleep-6052_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6052_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 333,
+    "subject_id": "mesa-sleep-6053_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6053_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 334,
+    "subject_id": "mesa-sleep-6119_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6119_v1.npz",
+    "n_epochs": 1107
+  },
+  {
+    "recording_idx": 335,
+    "subject_id": "mesa-sleep-6176_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6176_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 336,
+    "subject_id": "mesa-sleep-6180_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6180_v1.npz",
+    "n_epochs": 1299
+  },
+  {
+    "recording_idx": 337,
+    "subject_id": "mesa-sleep-6193_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6193_v1.npz",
+    "n_epochs": 880
+  },
+  {
+    "recording_idx": 338,
+    "subject_id": "mesa-sleep-6215_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6215_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 339,
+    "subject_id": "mesa-sleep-6224_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6224_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 340,
+    "subject_id": "mesa-sleep-6226_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6226_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 341,
+    "subject_id": "mesa-sleep-6236_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6236_v1.npz",
+    "n_epochs": 1360
+  },
+  {
+    "recording_idx": 342,
+    "subject_id": "mesa-sleep-6248_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6248_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 343,
+    "subject_id": "mesa-sleep-6288_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6288_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 344,
+    "subject_id": "mesa-sleep-6331_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6331_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 345,
+    "subject_id": "mesa-sleep-6336_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6336_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 346,
+    "subject_id": "mesa-sleep-6367_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6367_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 347,
+    "subject_id": "mesa-sleep-6372_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6372_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 348,
+    "subject_id": "mesa-sleep-6390_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6390_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 349,
+    "subject_id": "mesa-sleep-6414_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6414_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 350,
+    "subject_id": "mesa-sleep-6415_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6415_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 351,
+    "subject_id": "mesa-sleep-6417_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6417_v1.npz",
+    "n_epochs": 1299
+  },
+  {
+    "recording_idx": 352,
+    "subject_id": "mesa-sleep-6431_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6431_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 353,
+    "subject_id": "mesa-sleep-6433_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6433_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 354,
+    "subject_id": "mesa-sleep-6462_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6462_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 355,
+    "subject_id": "mesa-sleep-6471_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6471_v1.npz",
+    "n_epochs": 1179
+  },
+  {
+    "recording_idx": 356,
+    "subject_id": "mesa-sleep-6482_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6482_v1.npz",
+    "n_epochs": 939
+  },
+  {
+    "recording_idx": 357,
+    "subject_id": "mesa-sleep-6502_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6502_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 358,
+    "subject_id": "mesa-sleep-6503_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6503_v1.npz",
+    "n_epochs": 1000
+  },
+  {
+    "recording_idx": 359,
+    "subject_id": "mesa-sleep-6521_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6521_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 360,
+    "subject_id": "mesa-sleep-6599_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6599_v1.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 361,
+    "subject_id": "mesa-sleep-6616_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6616_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 362,
+    "subject_id": "mesa-sleep-6621_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6621_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 363,
+    "subject_id": "mesa-sleep-6622_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6622_v1.npz",
+    "n_epochs": 1359
+  },
+  {
+    "recording_idx": 364,
+    "subject_id": "mesa-sleep-6648_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6648_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 365,
+    "subject_id": "mesa-sleep-6697_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6697_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 366,
+    "subject_id": "mesa-sleep-6709_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6709_v1.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 367,
+    "subject_id": "mesa-sleep-6722_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6722_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 368,
+    "subject_id": "mesa-sleep-6759_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6759_v1.npz",
+    "n_epochs": 1119
+  },
+  {
+    "recording_idx": 369,
+    "subject_id": "mesa-sleep-6783_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6783_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 370,
+    "subject_id": "mesa-sleep-6802_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6802_v1.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 371,
+    "subject_id": "mesa-sleep-6807_v1",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_mesa_ppg/mesa-sleep-6807_v1.npz",
+    "n_epochs": 1119
+  }
+]

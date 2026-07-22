@@ -1,0 +1,368 @@
+[
+  {
+    "recording_idx": 0,
+    "subject_id": "800024",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800024_visit5.npz",
+    "n_epochs": 1143
+  },
+  {
+    "recording_idx": 1,
+    "subject_id": "800040",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800040_visit5.npz",
+    "n_epochs": 1079
+  },
+  {
+    "recording_idx": 2,
+    "subject_id": "800092",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800092_visit5.npz",
+    "n_epochs": 1147
+  },
+  {
+    "recording_idx": 3,
+    "subject_id": "800130",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800130_visit5.npz",
+    "n_epochs": 1079
+  },
+  {
+    "recording_idx": 4,
+    "subject_id": "800156",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800156_visit5.npz",
+    "n_epochs": 1141
+  },
+  {
+    "recording_idx": 5,
+    "subject_id": "800159",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800159_visit5.npz",
+    "n_epochs": 1111
+  },
+  {
+    "recording_idx": 6,
+    "subject_id": "800173",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800173_visit5.npz",
+    "n_epochs": 1021
+  },
+  {
+    "recording_idx": 7,
+    "subject_id": "800184",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800184_visit5.npz",
+    "n_epochs": 997
+  },
+  {
+    "recording_idx": 8,
+    "subject_id": "800197",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800197_visit5.npz",
+    "n_epochs": 1060
+  },
+  {
+    "recording_idx": 9,
+    "subject_id": "800285",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800285_visit5.npz",
+    "n_epochs": 1115
+  },
+  {
+    "recording_idx": 10,
+    "subject_id": "800321",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800321_visit5.npz",
+    "n_epochs": 1074
+  },
+  {
+    "recording_idx": 11,
+    "subject_id": "800326",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800326_visit5.npz",
+    "n_epochs": 1122
+  },
+  {
+    "recording_idx": 12,
+    "subject_id": "800329",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800329_visit5.npz",
+    "n_epochs": 1182
+  },
+  {
+    "recording_idx": 13,
+    "subject_id": "800344",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800344_visit5.npz",
+    "n_epochs": 1150
+  },
+  {
+    "recording_idx": 14,
+    "subject_id": "800349",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800349_visit5.npz",
+    "n_epochs": 1014
+  },
+  {
+    "recording_idx": 15,
+    "subject_id": "800355",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800355_visit5.npz",
+    "n_epochs": 1120
+  },
+  {
+    "recording_idx": 16,
+    "subject_id": "800404",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800404_visit5.npz",
+    "n_epochs": 1146
+  },
+  {
+    "recording_idx": 17,
+    "subject_id": "800427",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800427_visit5.npz",
+    "n_epochs": 1194
+  },
+  {
+    "recording_idx": 18,
+    "subject_id": "800464",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800464_visit5.npz",
+    "n_epochs": 1249
+  },
+  {
+    "recording_idx": 19,
+    "subject_id": "800494",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800494_visit5.npz",
+    "n_epochs": 1204
+  },
+  {
+    "recording_idx": 20,
+    "subject_id": "800557",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800557_visit5.npz",
+    "n_epochs": 1216
+  },
+  {
+    "recording_idx": 21,
+    "subject_id": "800577",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800577_visit5.npz",
+    "n_epochs": 976
+  },
+  {
+    "recording_idx": 22,
+    "subject_id": "800834",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800834_visit5.npz",
+    "n_epochs": 1171
+  },
+  {
+    "recording_idx": 23,
+    "subject_id": "800971",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800971_visit5.npz",
+    "n_epochs": 880
+  },
+  {
+    "recording_idx": 24,
+    "subject_id": "800985",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-800985_visit5.npz",
+    "n_epochs": 999
+  },
+  {
+    "recording_idx": 25,
+    "subject_id": "801034",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801034_visit5.npz",
+    "n_epochs": 1078
+  },
+  {
+    "recording_idx": 26,
+    "subject_id": "801038",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801038_visit5.npz",
+    "n_epochs": 1209
+  },
+  {
+    "recording_idx": 27,
+    "subject_id": "801075",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801075_visit5.npz",
+    "n_epochs": 1144
+  },
+  {
+    "recording_idx": 28,
+    "subject_id": "801112",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801112_visit5.npz",
+    "n_epochs": 905
+  },
+  {
+    "recording_idx": 29,
+    "subject_id": "801121",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801121_visit5.npz",
+    "n_epochs": 1123
+  },
+  {
+    "recording_idx": 30,
+    "subject_id": "801159",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801159_visit5.npz",
+    "n_epochs": 921
+  },
+  {
+    "recording_idx": 31,
+    "subject_id": "801181",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801181_visit5.npz",
+    "n_epochs": 1115
+  },
+  {
+    "recording_idx": 32,
+    "subject_id": "801206",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801206_visit5.npz",
+    "n_epochs": 942
+  },
+  {
+    "recording_idx": 33,
+    "subject_id": "801248",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801248_visit5.npz",
+    "n_epochs": 1136
+  },
+  {
+    "recording_idx": 34,
+    "subject_id": "801251",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801251_visit5.npz",
+    "n_epochs": 998
+  },
+  {
+    "recording_idx": 35,
+    "subject_id": "801276",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801276_visit5.npz",
+    "n_epochs": 1089
+  },
+  {
+    "recording_idx": 36,
+    "subject_id": "801311",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801311_visit5.npz",
+    "n_epochs": 1111
+  },
+  {
+    "recording_idx": 37,
+    "subject_id": "801398",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801398_visit5.npz",
+    "n_epochs": 1100
+  },
+  {
+    "recording_idx": 38,
+    "subject_id": "801421",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801421_visit5.npz",
+    "n_epochs": 1116
+  },
+  {
+    "recording_idx": 39,
+    "subject_id": "801446",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801446_visit5.npz",
+    "n_epochs": 1166
+  },
+  {
+    "recording_idx": 40,
+    "subject_id": "801460",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801460_visit5.npz",
+    "n_epochs": 1185
+  },
+  {
+    "recording_idx": 41,
+    "subject_id": "801517",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801517_visit5.npz",
+    "n_epochs": 1055
+  },
+  {
+    "recording_idx": 42,
+    "subject_id": "801528",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801528_visit5.npz",
+    "n_epochs": 1088
+  },
+  {
+    "recording_idx": 43,
+    "subject_id": "801576",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801576_visit5.npz",
+    "n_epochs": 1190
+  },
+  {
+    "recording_idx": 44,
+    "subject_id": "801645",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801645_visit5.npz",
+    "n_epochs": 1076
+  },
+  {
+    "recording_idx": 45,
+    "subject_id": "801674",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801674_visit5.npz",
+    "n_epochs": 1165
+  },
+  {
+    "recording_idx": 46,
+    "subject_id": "801685",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801685_visit5.npz",
+    "n_epochs": 1059
+  },
+  {
+    "recording_idx": 47,
+    "subject_id": "801841",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801841_visit5.npz",
+    "n_epochs": 1252
+  },
+  {
+    "recording_idx": 48,
+    "subject_id": "801889",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801889_visit5.npz",
+    "n_epochs": 1115
+  },
+  {
+    "recording_idx": 49,
+    "subject_id": "801960",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801960_visit5.npz",
+    "n_epochs": 1067
+  },
+  {
+    "recording_idx": 50,
+    "subject_id": "801963",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-801963_visit5.npz",
+    "n_epochs": 1214
+  },
+  {
+    "recording_idx": 51,
+    "subject_id": "802101",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802101_visit5.npz",
+    "n_epochs": 888
+  },
+  {
+    "recording_idx": 52,
+    "subject_id": "802132",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802132_visit5.npz",
+    "n_epochs": 1060
+  },
+  {
+    "recording_idx": 53,
+    "subject_id": "802183",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802183_visit5.npz",
+    "n_epochs": 1239
+  },
+  {
+    "recording_idx": 54,
+    "subject_id": "802235",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802235_visit5.npz",
+    "n_epochs": 1096
+  },
+  {
+    "recording_idx": 55,
+    "subject_id": "802386",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802386_visit5.npz",
+    "n_epochs": 915
+  },
+  {
+    "recording_idx": 56,
+    "subject_id": "802427",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802427_visit5.npz",
+    "n_epochs": 1015
+  },
+  {
+    "recording_idx": 57,
+    "subject_id": "802454",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802454_visit5.npz",
+    "n_epochs": 1020
+  },
+  {
+    "recording_idx": 58,
+    "subject_id": "802578",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802578_visit5.npz",
+    "n_epochs": 1123
+  },
+  {
+    "recording_idx": 59,
+    "subject_id": "802645",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802645_visit5.npz",
+    "n_epochs": 1084
+  },
+  {
+    "recording_idx": 60,
+    "subject_id": "802659",
+    "npz_path": "/data2/Akbar1/PPG_Stages/npz_cfs_ppg/cfs-visit5-802659_visit5.npz",
+    "n_epochs": 1008
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "HF_power|v8_backbone": {
+    "delta": -0.055368773938500426,
+    "call": "DEGRADES"
+  },
+  "HF_power|plain_backbone": {
+    "delta": -0.0598249623052568,
+    "call": "DEGRADES"
+  },
+  "HR_mean|v8_backbone": {
+    "delta": -0.3654145860598043,
+    "call": "DEGRADES"
+  },
+  "HR_mean|plain_backbone": {
+    "delta": -0.3617046815789396,
+    "call": "DEGRADES"
+  },
+  "HR_std|v8_backbone": {
+    "delta": -0.11507168354158337,
+    "call": "DEGRADES"
+  },
+  "HR_std|plain_backbone": {
+    "delta": -0.11105398428272972,
+    "call": "DEGRADES"
+  },
+  "RMSSD|v8_backbone": {
+    "delta": -0.09591153968065491,
+    "call": "DEGRADES"
+  },
+  "RMSSD|plain_backbone": {
+    "delta": -0.08850285842371342,
+    "call": "DEGRADES"
+  },
+  "resp_rate|v8_backbone": {
+    "delta": -0.01224989711187956,
+    "call": "TIE"
+  },
+  "resp_rate|plain_backbone": {
+    "delta": -0.0134694439939393,
+    "call": "DEGRADES"
+  }
+}

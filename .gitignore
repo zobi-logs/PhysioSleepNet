@@ -1,0 +1,33 @@
+# --- NSRR data: covered by a data use agreement, never redistribute ---
+npz_*/
+*.npz
+
+# --- model weights ---
+*.pt
+*.pth
+
+# --- logs and scratch ---
+*.log
+*.bak
+*.pre_cleanup
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- exploratory notebooks (stale numbers, not referenced by the paper) ---
+*.ipynb
+
+# --- cloned third-party source ---
+sleep-staging-models/
+
+# --- NSRR harmonized covariates: licensed per-user, not redistributable ---
+phenotype_*_subjects.csv
+phenotype_summary.csv
+linear_probe_per_fold_allseeds.csv
+benchmark_results/_paper_results/manifest.json
+benchmark_results/_paper_results/manifest.json
+
+# --- archived duplicate run directories and scratch ---
+benchmark_results/_LOCKED_*/
+logs/
+commnads.txt
